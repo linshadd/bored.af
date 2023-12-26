@@ -1,5 +1,5 @@
 body {
-    display: flex;
+    display: fixed;
     justify-content: center;
     align-items: center;
     height: 90vh;
@@ -9,7 +9,6 @@ body {
     background-position: center;
     background-color: black;
 }
-
 #noButton {
     position: absolute;
     margin-left: 150px;
